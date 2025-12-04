@@ -4,8 +4,8 @@ This project demonstrates how to host a static website using Amazon S3 (Simple S
 Website link- https://my-website538.s3.eu-north-1.amazonaws.com/index.html
 
 Technologies Used-
-HTML
-CSS
+HTML,
+CSS,
 AWS S3 for hosting
 
 Key Highlights & AWS Skills:
