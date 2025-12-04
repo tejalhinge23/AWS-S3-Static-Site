@@ -1,6 +1,8 @@
 # AWS-S3-Static-Site
 This project demonstrates how to host a static website using Amazon S3 (Simple Storage Service). The goal of this project is to deploy a simple HTML-CSS based website on AWS Cloud and make it publicly accessible using S3 static website hosting features. The repository contains necessary website file of HTML and CSS. It demonstrates cloud deployment skills using Amazon Web Services (AWS).
 
+Website link- https://my-website538.s3.eu-north-1.amazonaws.com/index.html
+
 Key Highlights & AWS Skills:
 
 1. AWS S3 Static Website Hosting:
